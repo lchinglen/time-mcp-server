@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "time-mcp-server": {
+      "command": "/Users/chinglenlamabam/work/src/github.com/time-mcp-server/.venv/bin/python",
+      "args": ["-m", "mcp_server_time"],
+      "description": "Local Time MCP Server for timezone conversions and time queries",
+      "env": {
+        "PYTHONPATH": "/Users/chinglenlamabam/work/src/github.com/time-mcp-server/src"
+      }
+    }
+  }
+}
