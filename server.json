@@ -1,0 +1,32 @@
+{
+  "name": "lchinglen-time-mcp-server",
+  "description": "MCP server for timezone conversions and time queries with support for IANA timezones",
+  "version": "1.0.0",
+  "author": "Chinglen Lamabam",
+  "license": "Apache-2.0", 
+  "homepage": "https://pypi.org/project/lchinglen-time-mcp-server/",
+  "runtime": "python",
+  "package": {
+    "type": "pypi",
+    "name": "lchinglen-time-mcp-server"
+  },
+  "capabilities": {
+    "tools": [
+      {
+        "name": "get_current_time", 
+        "description": "Get the current time in a specific timezone"
+      },
+      {
+        "name": "convert_time",
+        "description": "Convert time between different timezones"
+      }
+    ]
+  },
+  "tags": [
+    "time",
+    "timezone", 
+    "conversion",
+    "datetime",
+    "utilities"
+  ]
+}
