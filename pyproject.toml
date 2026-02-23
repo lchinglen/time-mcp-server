@@ -1,6 +1,6 @@
 [project]
 name = "lchinglen-time-mcp-server"
-version = "1.0.0"
+version = "1.0.2"
 description = "A fun Time MCP Server for testing PyPI publishing with Model Context Protocol"
 readme = "README.md"
 requires-python = ">=3.10"
