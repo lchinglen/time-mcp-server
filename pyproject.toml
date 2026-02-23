@@ -1,6 +1,6 @@
 [project]
 name = "lchinglen-time-mcp-server"
-version = "1.0.2"
+version = "1.0.3"
 description = "A fun Time MCP Server for testing PyPI publishing with Model Context Protocol"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -9,6 +9,9 @@ authors = [
 ]
 keywords = ["time", "timezone", "mcp", "llm", "test"]
 license = { text = "MIT" }
+homepage = "https://github.com/lchinglen/time-mcp-server"
+repository = "https://github.com/lchinglen/time-mcp-server.git"
+issues = "https://github.com/lchinglen/time-mcp-server/issues"
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
